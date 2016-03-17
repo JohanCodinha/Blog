@@ -3,7 +3,7 @@
 
 ####Today we discuss, what is the **actual job** of a **Web developer ?**  
 
-**Read and Write text files**, it's not as easy as it seems. First, you have to make a decision on which text editor your going to use, not an easy task when you have three teachers, all telling you to use a different one. So I ended up downloading three and configure one. So far I'm kind of using Vim for quick text edit from the terminal and Sublime to write code and Markdown pages like this one.
+**Read and Write text files**, it's not as easy as it seems. First, you have to make a decision on which text editor your going to use, not an easy task when you have three teachers, all telling you to use a different one. So I ended up downloading three and configure one. So far I'm kind of using Vim for quick text edit from the terminal and Sublime to write code and Markdown pages like this one.  
 **Solving problems** aka debugging, is the other part of the job, after the discusion went a little bt philisofic agreeing on this quote : "If debugging is the process of removing bugs, then programming must be the process of putting them in."  
 
 ####:dart: Every day goals :  
