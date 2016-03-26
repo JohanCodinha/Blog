@@ -7,7 +7,7 @@ This is exactly what we are doing here, CSS evolve a lot in the last years and i
 
 ####:dart: Every day goals :  
 
-**Coding**, today felt more like scripting with CSS, but we always spend morning time to do some JS exercise, just to warm-up the brain.
+**Coding**, today felt a lot more like scripting with CSS, but we always spend morning time to do some JS exercise, just to warm-up the brain.
 **Talking about it**, I recorded another quick chat with myself, if you realy have nothing better to do then check it out, [walk and talk](https://soundcloud.com/johan-c-819300950/walk-and-talk-day-6-58).
 
 ####:book: TIL :
